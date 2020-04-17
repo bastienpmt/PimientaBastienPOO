@@ -1,0 +1,41 @@
+body{
+    font-family: 'Manrope', sans-serif;
+}
+
+/* FORM  */
+.uploadsHeight img{
+    max-height: 80px;
+}
+
+/* NAVBAR  */
+.logoFont{
+    font-size: 28px;
+}
+
+/* CARD  */
+legend{
+    width: unset!important;
+    background-color: white;
+}
+fieldset{
+    border: 0.5px solid #ffc8c8!important;
+    transition: ease 0.3s;
+}
+h5{
+    background-color: #ffc8c8c2;
+    /* color: white; */
+}
+.cardsImageHeight img{
+    height: 100%;
+    transition: ease 0.2s;
+}
+.cardsImageHeight img:hover{
+    transform: scale(1.05);
+    transition: ease 0.2s;
+}
+.cardsImageHeight{
+    text-align: center;
+    height: 250px;
+    overflow: hidden;
+}
+   
